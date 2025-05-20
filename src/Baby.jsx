@@ -7,6 +7,7 @@ function Baby(props){
       }
       return (
 
+            
             <div>
                   <h3>I am {props.name}</h3>
             </div>

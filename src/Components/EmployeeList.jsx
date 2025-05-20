@@ -7,6 +7,7 @@ function EmployeeList({ employees, onEmployeeClick }){
                   {employees.length === 0 ? (
                         <p>No Employees available.</p>
                   ) : (
+                        
                         <ul>
                               {employees.map((employee) => (
                                     <li 

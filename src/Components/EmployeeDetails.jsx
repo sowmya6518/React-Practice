@@ -9,6 +9,7 @@ function EmployeeDetails(){
                   <p><strong>Mobile No:</strong>{employee.mobile}</p>
 
             </div>
+            
       );
 }
 
