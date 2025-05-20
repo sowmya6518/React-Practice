@@ -10,5 +10,4 @@ function Event(props){
       );
 }
 
-
 export default Event;

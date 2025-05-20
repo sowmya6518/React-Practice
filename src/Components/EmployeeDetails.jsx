@@ -8,8 +8,7 @@ function EmployeeDetails(){
                   <p><strong>Experience:</strong>{employee.experience}</p>
                   <p><strong>Mobile No:</strong>{employee.mobile}</p>
 
-            </div>
-            
+            </div>           
       );
 }
 

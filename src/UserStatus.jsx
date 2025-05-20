@@ -10,5 +10,4 @@ function UserStatus({loggedIn, error}){
       )
 }
 
-
 export default UserStatus;

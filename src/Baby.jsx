@@ -6,8 +6,7 @@ function Baby(props){
             props.message("I am coming from Child")
       }
       return (
-
-            
+    
             <div>
                   <h3>I am {props.name}</h3>
             </div>

@@ -11,5 +11,4 @@ function ChildA({ onSend }){
 
       );
 }
-
 export default ChildA;

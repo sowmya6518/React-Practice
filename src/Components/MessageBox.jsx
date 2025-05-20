@@ -14,7 +14,6 @@ function MessageBox({onSendMsg}){
       return(
             <div style={{ marginTop: '20px' }}>
 
-
                   <h4>Send a Message</h4>
                   <input
                         type="text"
