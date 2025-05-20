@@ -1,0 +1,119 @@
+h1 {
+
+      background-color: beige;
+      color: brown;
+      text-align: center;
+}
+
+.container {
+      border: 2px solid #333;
+      padding :20px;
+      margin: 20px;
+      background-color: #f0f0f0;
+      color: black;
+}
+
+.box {
+      border: 2px dashed blue;
+      padding: 20px;
+      margin: 15px;
+      color: crimson;
+      background-color: #eef;
+}
+
+
+/* Responsive styles for mobile */
+@media (max-width: 600px) {
+      
+      
+      form {
+      padding: 15px;
+      }
+      
+      input, button {
+      width: 100%;
+      box-sizing: border-box;
+      }
+      
+      li {
+      font-size: 14px;
+      }
+      
+      h2 {
+      font-size: 20px;
+      }
+      }
+
+.App {
+      font-family: Arial, sans-serif;
+      padding: 100px;
+      background-color: burlywood;
+      min-height: 100vh;
+      }
+      
+      h2 {
+      text-align: center;
+      color: #333;
+      }
+      
+      form {
+            padding: 100px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 20px;
+      background-color: yellowgreen;
+      
+      }
+      
+      input {
+      padding: 10px;
+      font-size: 16px;
+      background-color: #333;
+      border-radius: 4px;
+      }
+      
+      button {
+      padding: 10px;
+      background-color: black;
+      color: white;
+      font-weight: bold;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      }
+      
+      button:hover {
+      background-color: #218838;
+      }
+      
+      ul {
+      list-style: none;
+      padding: 0;
+      background-color: #333;
+      }
+      
+      li {
+      padding: 10px;
+      background-color: firebrick;
+      margin: 8px 0;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      cursor: pointer;
+      }
+      
+      li:hover {
+      background-color: #e6f7ff;
+      }
+      
+      .container {
+      background-color: #ffffff;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      }
+      
+      p {
+      font-size: 16px;
+      }
+      
